@@ -176,6 +176,16 @@
 - [Azure](https://github.com/shopwareLabs/SwagMediaAzure) - Microsoft Azure adapter.
 - [BunnyCDN](https://github.com/FriendsOfShopware/FroshBunnycdnMediaStorage) - BunnyCDN adapter.
 
+## Misc
+- [Template Mail](https://github.com/FriendsOfShopware/FroshTemplateMail) - Store mail templates in theme.
+- [View Snapshots](https://github.com/FriendsOfShopware/FroshViewSnapshots) - Shopware plugin that allows you to record/log views and restore them
+- [Variant Switch](https://github.com/FriendsOfShopware/FroshVariantSwitch) - Shopware plugin to switch variants in basket and checkout views
+- [Notification](https://github.com/FriendsOfShopware/FroshSimultaneousEditNotification) - Backend Notification when multiple users working parallel
+- [Share Basket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link
+- [Media Optimizer](https://github.com/FriendsOfShopware/FroshOptimusMediaOptimizer) - Shopware-Plugin to optimize thumbnails with optimus.io
+- [Tiny Png Optimizer](https://github.com/FriendsOfShopware/FroshTinyPngMediaOptimizer) - Shopware-Plugin to optimize thumbnails with tinypng.com
+- [FroshCleaner](https://github.com/FriendsOfShopware/FroshCleaner) - Something like CCleaner, but for Shopware
+- [IonCube Checker](https://github.com/FriendsOfShopware/FroshIonCubeChecker) - IonCube check for Shopware plugins 
 
 ## License
 
