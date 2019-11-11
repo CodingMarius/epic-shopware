@@ -21,6 +21,8 @@
 - [Themes](#themes)
 - [Tracking](#tracking)
 - [Media Adapter](#media-adapter)
+- [Misc](#misc)
+
 
 ## Backend Plugins
 
