@@ -1,10 +1,8 @@
 [<img src="https://de.shopware.com/media/unknown/2d/80/8c/shopware_signet_blue.svg" alt="Shopware Logo" title="Shopware" align="right" width="100">](https://shopware.com/)
 
-# Awesome Shopware [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# EPIC Shopware
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the [Shopware](https://github.com/shopware/shopware) ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Contents
 
